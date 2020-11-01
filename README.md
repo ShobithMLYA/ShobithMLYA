@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 text align=center>Hello World! 🌚</h1>
+<br>
+<div align=center>
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" >
+</div>
+<br><br>
+<div align=cleft>
+<h2>My name is <strong>Shobith Mallya.👨🏻‍💻 </strong><br>
+An aspiring Web Developer 🌐 and a UI/UX Designer ✒️. 
+<br>With keen interest in Human-Centric Design, I look foward to having an empahetic approach towards problem solving.💡</h2>
+</div>
 
-<!--
-**ShobithMLYA/ShobithMLYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+I am a Second Year Information Science Engineering student at Sahyadri College of Engineering and Management, Mangalore. I am the Design Lead at [Farak](https://github.com/FarakOfficial)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
