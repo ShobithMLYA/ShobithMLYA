@@ -1,7 +1,7 @@
 <h2>Hello there! 👋</h2>
 
 <p>My name is <strong>Shobith Mallya👨🏻‍💻. </strong><br>
-  An aspiring <strong>Web Developer🌐</strong> and a <strong>UI/UX Designer<strong>✒️. 
+  An aspiring <strong>Web Developer🌐</strong> and a <strong>UI/UX Designer</strong>✒️. 
 <br>With keen interest in <strong>Human-Centric Design</strong>, I look foward to having an empahetic approach towards problem solving💡.</p>
 </div>
 
