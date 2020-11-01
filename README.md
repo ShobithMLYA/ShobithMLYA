@@ -1,8 +1,8 @@
 <h2>Hello there! 👋</h2>
 
-<h3>My name is <strong>Shobith Mallya.👨🏻‍💻 </strong><br>
-An aspiring Web Developer 🌐 and a UI/UX Designer ✒️. 
-<br>With keen interest in Human-Centric Design, I look foward to having an empahetic approach towards problem solving.💡</h3>
+<p>My name is <strong>Shobith Mallya👨🏻‍💻. </strong><br>
+  An aspiring <strong>Web Developer🌐</strong> and a <strong>UI/UX Designer<strong>✒️. 
+<br>With keen interest in <strong>Human-Centric Design</strong>, I look foward to having an empahetic approach towards problem solving💡.</p>
 </div>
 
 - Second Year Information Science Engineering student at [SCEM](https://www.sahyadri.edu.in/)
@@ -10,7 +10,7 @@ An aspiring Web Developer 🌐 and a UI/UX Designer ✒️.
 - Marketing & Branding Intern at [Rapture-Innovations](https://rapture.works/) 
 <br>
 
-Alongside which I am a self-taught cinematographer 📽 also spening my leisures watching off-beat films 🎞 and exploring various genres of music 🎧.
+Alongside which I am a self-taught cinematographer📽 also spening my leisures watching off-beat films🎞 and exploring various genres of music🎧.
 <br>
 <br>
 
