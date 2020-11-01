@@ -11,7 +11,6 @@
 <br>
 
 Alongside which I am a self-taught cinematographer📽 also spening my leisures watching off-beat films🎞 and exploring various genres of music🎧.
-<br>
 
 <h2 align = "center"><strong>Connect with me through:<br>
 <p align="center">
