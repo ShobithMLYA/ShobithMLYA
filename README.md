@@ -8,7 +8,6 @@
 - Second Year Information Science Engineering student at [SCEM](https://www.sahyadri.edu.in/)
 - Design Lead at [Farak](https://www.farakofficial.com/)
 - Marketing & Branding Intern at [Rapture-Innovations](https://rapture.works/) 
-<br>
 
 Alongside which I am a self-taught cinematographer📽 also spening my leisures watching off-beat films🎞 and exploring various genres of music🎧.
 
