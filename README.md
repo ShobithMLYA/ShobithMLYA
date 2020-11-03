@@ -9,7 +9,8 @@
 - Design Lead at [Farak](https://www.farakofficial.com/)
 - Marketing & Branding Intern at [Rapture-Innovations](https://rapture.works/) 
 
-Alongside which I am a self-taught cinematographer📽 also spening my leisures watching off-beat films🎞 and exploring various genres of music🎧.
+Alongside which I am a self-taught cinematographer📽 also spending my leisures watching off-beat films🎞 and exploring various genres of music🎧.
+My Top Spotify Playlist and Movies to watch list will be updated soon :)
 
 <h2 align = "center"><strong>Connect with me through:<br>
 <p align="center">
