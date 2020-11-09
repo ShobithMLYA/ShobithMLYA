@@ -1,4 +1,6 @@
-<h2>Hello there! 👋</h2>
+<samp>
+
+<h2>Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 
 <p>My name is <strong>Shobith Mallya👨🏻‍💻. </strong><br>
   An aspiring <strong>Web Developer🌐</strong> and a <strong>UI/UX Designer</strong>✒️. 
@@ -9,8 +11,7 @@
 - Design Lead at [Farak](https://www.farakofficial.com/)
 - Marketing & Branding Intern at [Rapture-Innovations](https://rapture.works/) 
 
-Alongside which I am a self-taught cinematographer📽 also spending my leisures watching off-beat films🎞 and exploring various genres of music🎧.
-My Top Spotify Playlist and Movies to watch list will be updated soon :)
+Alongside which I am a self-taught cinematographer📽 also spening my leisures watching off-beat films🎞 and exploring various genres of music🎧.
 
 <h2 align = "center"><strong>Connect with me through:<br>
 <p align="center">
@@ -34,5 +35,7 @@ My Top Spotify Playlist and Movies to watch list will be updated soon :)
 <a href="https://www.linkedin.com/in/shobithmallya/" target="blank">
   <img src="https://img.icons8.com/doodle/48/000000/linkedin.png"/ width="35px" height="35px">
  </a>
+
+ </samp>
 
  </p>
