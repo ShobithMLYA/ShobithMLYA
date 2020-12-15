@@ -17,23 +17,19 @@ Alongside which I am a self-taught cinematographer📽 also spending my leisures
 <p align="center">
 
 <a href="mailto:shobith.mallya8@gmail.com" target="blank">
-  <img src="https://img.icons8.com/doodle/48/000000/gmail.png"/ width="35px" height="35px">
- </a>
-
-<a href="https://www.instagram.com/shobithmlya/" target="blank">
-  <img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/ width="35px" height="35px">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail--v1.png"/ width="35px" height="35px">
  </a>
 
 <a href="https://twitter.com/shobithmlya" target="blank">
-  <img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/ width="35px" height="35px">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/ width="35px" height="35px">
  </a>
 
 <a href="https://www.behance.net/shobithmallya" target="blank">
-  <img src="https://img.icons8.com/doodle/48/000000/behance.png"/ width="35px" height="35px">
+  <img src="https://img.icons8.com/color/48/000000/behance.png"/ width="35px" height="35px">
  </a>
 
 <a href="https://www.linkedin.com/in/shobithmallya/" target="blank">
-  <img src="https://img.icons8.com/doodle/48/000000/linkedin.png"/ width="35px" height="35px">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/ width="35px" height="35px">
  </a>
 
  </samp>
