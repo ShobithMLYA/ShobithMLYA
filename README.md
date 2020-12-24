@@ -9,7 +9,8 @@
 
 - Second Year Information Science Engineering student at [SCEM](https://www.sahyadri.edu.in/)
 - Design Lead at [Farak](https://www.farakofficial.com/)
-- Marketing & Branding Intern at [Rapture-Innovations](https://rapture.works/) 
+- Marketing & Branding Intern at [Rapture Innovations](https://rapture.works/) 
+- Product Designer at [The Startupreneur](https://thestartupreneur.co/)
 
 
 <h2 align = "center"><strong>Connect with me through:<br>
