@@ -1,5 +1,3 @@
-<samp>
-
 <h2>Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 
 <p>My name is <strong>Shobith Mallya👨🏻‍💻. </strong><br>
@@ -31,7 +29,5 @@
 <a href="https://www.linkedin.com/in/shobithmallya/" target="blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/ width="35px" height="35px">
  </a>
-
- </samp>
 
  </p>
